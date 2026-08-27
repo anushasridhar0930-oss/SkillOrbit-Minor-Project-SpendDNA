@@ -7,7 +7,7 @@ b) Maximum Expenditure on vendors belonging to categories like E-Commerce, Quick
 c) Computing Monthly trends in expenditure on each category
 d) Concluding that Rahul is not at all a saver and spends too much
 
-This project was a good learning experience. There were restrictions on the liabraries that I was allowed to import to conduct this analysis. This made the project a bigger challenge. I was not allowed to use pandas-profiling, ydata-profiling, sweetviz, autoviz, matplotlib, seaborn, scikit-learn, scipy.stats, and other statsmodels
+This project was a good learning experience. There were restrictions on the liabraries that I was allowed to import to conduct this analysis. This made the project a bigger challenge. The only things I was allowed to use for this analysis were Python Fundamentals (variables, types, conditionals, loops, functions, f-strings, split, map, lambda), Lists, tuples, sets, dictionaries, comprehensions, NumPy, Pandas, datetime module. I was not allowed to use pandas-profiling, ydata-profiling, sweetviz, autoviz, matplotlib, seaborn, scikit-learn, scipy.stats, and other statsmodels
 which are helpful for visualization. It was a little tough to create archetypes, but, from the previous project's practice, I was able to do it properly.
 
 Please Note:
