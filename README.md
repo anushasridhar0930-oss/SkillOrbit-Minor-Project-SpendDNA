@@ -1,5 +1,5 @@
 # SkillOrbit-Minor-Project-SpendDNA
-This project analyses the transaction of an individual and determines how much of his income he spends on necesscities, luxuries, investments and keeps some for savings. The period of transactions was from 01 January 2024 to 30 June 2024 (6 months). A total of 1,328 (including 18 duplicates) were present in the given dataset The codes help in separating debit and credit transactions made by individual Rahul. 
+This project analyses the transactions of an individual and determines how much of his income he spends on necesscities, luxuries, investments and keeps some as savings. The period of transactions was from 01 January 2024 to 30 June 2024 (6 months). A total of 1,328 (including 18 duplicates) were present in the given dataset The codes help in separating debit and credit transactions made by individual Rahul. 
 Some of the interesting outputs from this project include:
 
 a) Vendors on whom most eexpenditure was made by Rahul as Amazon, Swiggy, Myntra, Flipkart
